@@ -1,1 +1,1 @@
-# Appliances-Energy-Prediction
+# Appliance-Energy-Predictor
